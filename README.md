@@ -22,32 +22,32 @@ This repo currently has no exercises as it was just made. I will try to update i
 ## ChatGPT Prompts
 These prompt was created using [GPTForWork](https://gptforwork.com/tools/prompt-generator) to help me better format the request.
 
-Task: Give me an exercise on the topic. It should be doable for someone completely new to the topic in no longer than 10 minutes. It should include all topics in some way.
+    Task: Give me an exercise on the topic. It should be doable for someone completely new to the topic in no longer than 10 minutes. It should include all topics in some way.
 
-Topic: {Languages/Concepts}
+    Topic: {Languages/Concepts}
 
-Style: Descriptive
+    Style: Descriptive
 
-Tone: Encouraging
+    Tone: Encouraging
 
-Audience: Aspiring developer
+    Audience: Aspiring developer
 
-Format: Text only, no code snippets, just explain the task, what I need to do, give me suggestions without expressly telling me how to complete it.
+    Format: Text only, no code snippets, just explain the task, what I need to do, give me suggestions without expressly telling me how to complete it.
 
-Additonal Rules:
-1. {Rule}
+    Additonal Rules:
+    1. {Rule}
 
 Here is an example of this prompt. This is what I will be using when I ask for HTML, CSS, and JavaScript:
 
-Task: Give me an exercise on the topics. It should be doable for someone completely new to the topic in no longer than 10 minutes. It should include all topics in some way.
-
-Topic: HTML, CSS, JavaScript
-
-Style: Descriptive
-
-Tone: Encouraging
-
-Audience: Aspiring developer
-
-Format: Text only, no code snippets, just explain the task, what I need to do, give me suggestions without expressly telling me how to complete it.
+    Task: Give me an exercise on the topics. It should be doable for someone completely new to the topic in no longer than 10 minutes. It should include all topics in some way.
+    
+    Topic: HTML, CSS, JavaScript
+    
+    Style: Descriptive
+    
+    Tone: Encouraging
+    
+    Audience: Aspiring developer
+    
+    Format: Text only, no code snippets, just explain the task, what I need to do, give me suggestions without expressly telling me how to complete it.
 
